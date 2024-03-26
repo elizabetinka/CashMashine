@@ -1,0 +1,342 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/indo.evri.momint/elizabetinka/src/Lab5/Infrastructure/Lab5.Infrastructure.DataAccess/Lab5.Infrastructure.DataAccess.csproj": {}
+  },
+  "projects": {
+    "/Users/indo.evri.momint/elizabetinka/src/Lab5/Infrastructure/Lab5.Infrastructure.DataAccess/Lab5.Infrastructure.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/indo.evri.momint/elizabetinka/src/Lab5/Infrastructure/Lab5.Infrastructure.DataAccess/Lab5.Infrastructure.DataAccess.csproj",
+        "projectName": "Lab5.Infrastructure.DataAccess",
+        "projectPath": "/Users/indo.evri.momint/elizabetinka/src/Lab5/Infrastructure/Lab5.Infrastructure.DataAccess/Lab5.Infrastructure.DataAccess.csproj",
+        "packagesPath": "/Users/indo.evri.momint/.nuget/packages/",
+        "outputPath": "/Users/indo.evri.momint/elizabetinka/src/Lab5/Infrastructure/Lab5.Infrastructure.DataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "configFilePaths": [
+          "/Users/indo.evri.momint/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/indo.evri.momint/elizabetinka/src/Lab5/Services/Services.csproj": {
+                "projectPath": "/Users/indo.evri.momint/elizabetinka/src/Lab5/Services/Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Npgsql": {
+              "target": "Package",
+              "version": "[8.0.1, )",
+              "versionCentrallyManaged": true
+            },
+            "SourceKit.Analyzers.Collections": {
+              "target": "Package",
+              "version": "[1.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "SourceKit.Analyzers.Enumerable": {
+              "target": "Package",
+              "version": "[1.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "SourceKit.Analyzers.MemberAccessibility": {
+              "target": "Package",
+              "version": "[1.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "SourceKit.Analyzers.Nullable": {
+              "target": "Package",
+              "version": "[1.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "SourceKit.Analyzers.Properties": {
+              "target": "Package",
+              "version": "[1.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.507, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "coverlet.collector": "[6.0.0, )",
+            "Crayon": "[2.0.69, )",
+            "Microsoft.NET.Test.Sdk": "[17.7.2, )",
+            "Moq": "[4.20.70, )",
+            "Npgsql": "[8.0.1, )",
+            "SourceKit.Analyzers.Collections": "[1.0.4, )",
+            "SourceKit.Analyzers.Enumerable": "[1.0.4, )",
+            "SourceKit.Analyzers.MemberAccessibility": "[1.0.4, )",
+            "SourceKit.Analyzers.Nullable": "[1.0.4, )",
+            "SourceKit.Analyzers.Properties": "[1.0.4, )",
+            "StyleCop.Analyzers": "[1.2.0-beta.507, )",
+            "Swashbuckle.AspNetCore": "[6.5.0, )",
+            "Swashbuckle.AspNetCore.Annotations": "[6.5.0, )",
+            "System.Data.SqlClient": "[4.8.5, )",
+            "xunit": "[2.5.0, )",
+            "xunit.runner.visualstudio": "[2.5.0, )"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/indo.evri.momint/elizabetinka/src/Lab5/Models/Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/indo.evri.momint/elizabetinka/src/Lab5/Models/Models.csproj",
+        "projectName": "Models",
+        "projectPath": "/Users/indo.evri.momint/elizabetinka/src/Lab5/Models/Models.csproj",
+        "packagesPath": "/Users/indo.evri.momint/.nuget/packages/",
+        "outputPath": "/Users/indo.evri.momint/elizabetinka/src/Lab5/Models/obj/",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "configFilePaths": [
+          "/Users/indo.evri.momint/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "SourceKit.Analyzers.Collections": {
+              "target": "Package",
+              "version": "[1.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "SourceKit.Analyzers.Enumerable": {
+              "target": "Package",
+              "version": "[1.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "SourceKit.Analyzers.MemberAccessibility": {
+              "target": "Package",
+              "version": "[1.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "SourceKit.Analyzers.Nullable": {
+              "target": "Package",
+              "version": "[1.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "SourceKit.Analyzers.Properties": {
+              "target": "Package",
+              "version": "[1.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.507, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "coverlet.collector": "[6.0.0, )",
+            "Crayon": "[2.0.69, )",
+            "Microsoft.NET.Test.Sdk": "[17.7.2, )",
+            "Moq": "[4.20.70, )",
+            "Npgsql": "[8.0.1, )",
+            "SourceKit.Analyzers.Collections": "[1.0.4, )",
+            "SourceKit.Analyzers.Enumerable": "[1.0.4, )",
+            "SourceKit.Analyzers.MemberAccessibility": "[1.0.4, )",
+            "SourceKit.Analyzers.Nullable": "[1.0.4, )",
+            "SourceKit.Analyzers.Properties": "[1.0.4, )",
+            "StyleCop.Analyzers": "[1.2.0-beta.507, )",
+            "Swashbuckle.AspNetCore": "[6.5.0, )",
+            "Swashbuckle.AspNetCore.Annotations": "[6.5.0, )",
+            "System.Data.SqlClient": "[4.8.5, )",
+            "xunit": "[2.5.0, )",
+            "xunit.runner.visualstudio": "[2.5.0, )"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/indo.evri.momint/elizabetinka/src/Lab5/Services/Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/indo.evri.momint/elizabetinka/src/Lab5/Services/Services.csproj",
+        "projectName": "Services",
+        "projectPath": "/Users/indo.evri.momint/elizabetinka/src/Lab5/Services/Services.csproj",
+        "packagesPath": "/Users/indo.evri.momint/.nuget/packages/",
+        "outputPath": "/Users/indo.evri.momint/elizabetinka/src/Lab5/Services/obj/",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "configFilePaths": [
+          "/Users/indo.evri.momint/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/indo.evri.momint/elizabetinka/src/Lab5/Models/Models.csproj": {
+                "projectPath": "/Users/indo.evri.momint/elizabetinka/src/Lab5/Models/Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "SourceKit.Analyzers.Collections": {
+              "target": "Package",
+              "version": "[1.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "SourceKit.Analyzers.Enumerable": {
+              "target": "Package",
+              "version": "[1.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "SourceKit.Analyzers.MemberAccessibility": {
+              "target": "Package",
+              "version": "[1.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "SourceKit.Analyzers.Nullable": {
+              "target": "Package",
+              "version": "[1.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "SourceKit.Analyzers.Properties": {
+              "target": "Package",
+              "version": "[1.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.507, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "coverlet.collector": "[6.0.0, )",
+            "Crayon": "[2.0.69, )",
+            "Microsoft.NET.Test.Sdk": "[17.7.2, )",
+            "Moq": "[4.20.70, )",
+            "Npgsql": "[8.0.1, )",
+            "SourceKit.Analyzers.Collections": "[1.0.4, )",
+            "SourceKit.Analyzers.Enumerable": "[1.0.4, )",
+            "SourceKit.Analyzers.MemberAccessibility": "[1.0.4, )",
+            "SourceKit.Analyzers.Nullable": "[1.0.4, )",
+            "SourceKit.Analyzers.Properties": "[1.0.4, )",
+            "StyleCop.Analyzers": "[1.2.0-beta.507, )",
+            "Swashbuckle.AspNetCore": "[6.5.0, )",
+            "Swashbuckle.AspNetCore.Annotations": "[6.5.0, )",
+            "System.Data.SqlClient": "[4.8.5, )",
+            "xunit": "[2.5.0, )",
+            "xunit.runner.visualstudio": "[2.5.0, )"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

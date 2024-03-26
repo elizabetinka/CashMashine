@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jf1wAi79ZROzLMuLR+7TyN+SSMyFNBBAC4OcB/GagQXgAHgFKt3D26iHL23LK4AyFBZ1EieWJb3WtRLKqy4lOA==",
+  "success": true,
+  "projectFilePath": "/Users/indo.evri.momint/elizabetinka/src/Lab5/Infrastructure/Lab5.Infrastructure.DataAccess/Lab5.Infrastructure.DataAccess.csproj",
+  "expectedPackageFiles": [
+    "/Users/indo.evri.momint/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/indo.evri.momint/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/indo.evri.momint/.nuget/packages/npgsql/8.0.1/npgsql.8.0.1.nupkg.sha512",
+    "/Users/indo.evri.momint/.nuget/packages/sourcekit.analyzers.collections/1.0.4/sourcekit.analyzers.collections.1.0.4.nupkg.sha512",
+    "/Users/indo.evri.momint/.nuget/packages/sourcekit.analyzers.enumerable/1.0.4/sourcekit.analyzers.enumerable.1.0.4.nupkg.sha512",
+    "/Users/indo.evri.momint/.nuget/packages/sourcekit.analyzers.memberaccessibility/1.0.4/sourcekit.analyzers.memberaccessibility.1.0.4.nupkg.sha512",
+    "/Users/indo.evri.momint/.nuget/packages/sourcekit.analyzers.nullable/1.0.4/sourcekit.analyzers.nullable.1.0.4.nupkg.sha512",
+    "/Users/indo.evri.momint/.nuget/packages/sourcekit.analyzers.properties/1.0.4/sourcekit.analyzers.properties.1.0.4.nupkg.sha512",
+    "/Users/indo.evri.momint/.nuget/packages/stylecop.analyzers/1.2.0-beta.507/stylecop.analyzers.1.2.0-beta.507.nupkg.sha512",
+    "/Users/indo.evri.momint/.nuget/packages/stylecop.analyzers.unstable/1.2.0.507/stylecop.analyzers.unstable.1.2.0.507.nupkg.sha512"
+  ],
+  "logs": []
+}
